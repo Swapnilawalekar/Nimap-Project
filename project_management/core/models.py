@@ -19,3 +19,7 @@ class Project(models.Model):
 
     def _str_(self):
         return self.project_name
+    
+
+    #this is todays task
+    #you need to submit it
